@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Tenis">
+    <Table>
+
+      <Row>
+        <Cell><Data ss:Type="String">Loja</Data></Cell>
+        <Cell><Data ss:Type="String">Nome</Data></Cell>
+        <Cell><Data ss:Type="String">Preço</Data></Cell>
+        <Cell><Data ss:Type="String">Quantidade</Data></Cell>
+        <Cell><Data ss:Type="String">Tamanhos disponíveis</Data></Cell>
+      </Row>
+
+      <Row><Cell><Data ss:Type="String">Nike Store</Data></Cell><Cell><Data ss:Type="String">Air Max 90</Data></Cell><Cell><Data ss:Type="Number">599.9</Data></Cell><Cell><Data ss:Type="Number">12</Data></Cell><Cell><Data ss:Type="String">38-39-40-41-42</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Adidas Shop</Data></Cell><Cell><Data ss:Type="String">Ultraboost 22</Data></Cell><Cell><Data ss:Type="Number">799.9</Data></Cell><Cell><Data ss:Type="Number">8</Data></Cell><Cell><Data ss:Type="String">39-40-41-42-43</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Centauro</Data></Cell><Cell><Data ss:Type="String">Puma RS-X</Data></Cell><Cell><Data ss:Type="Number">499.9</Data></Cell><Cell><Data ss:Type="Number">15</Data></Cell><Cell><Data ss:Type="String">37-38-39-40-41</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Netshoes</Data></Cell><Cell><Data ss:Type="String">Mizuno Wave Prophecy</Data></Cell><Cell><Data ss:Type="Number">899.9</Data></Cell><Cell><Data ss:Type="Number">5</Data></Cell><Cell><Data ss:Type="String">40-41-42-43-44</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Nike Store</Data></Cell><Cell><Data ss:Type="String">Air Force 1</Data></Cell><Cell><Data ss:Type="Number">649.9</Data></Cell><Cell><Data ss:Type="Number">20</Data></Cell><Cell><Data ss:Type="String">38-39-40-41-42-43</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Adidas Shop</Data></Cell><Cell><Data ss:Type="String">Superstar</Data></Cell><Cell><Data ss:Type="Number">399.9</Data></Cell><Cell><Data ss:Type="Number">18</Data></Cell><Cell><Data ss:Type="String">36-37-38-39-40</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Centauro</Data></Cell><Cell><Data ss:Type="String">Asics Gel-Nimbus</Data></Cell><Cell><Data ss:Type="Number">749.9</Data></Cell><Cell><Data ss:Type="Number">7</Data></Cell><Cell><Data ss:Type="String">39-40-41-42</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Netshoes</Data></Cell><Cell><Data ss:Type="String">Fila Disruptor</Data></Cell><Cell><Data ss:Type="Number">349.9</Data></Cell><Cell><Data ss:Type="Number">10</Data></Cell><Cell><Data ss:Type="String">37-38-39-40</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Nike Store</Data></Cell><Cell><Data ss:Type="String">React Infinity Run</Data></Cell><Cell><Data ss:Type="Number">699.9</Data></Cell><Cell><Data ss:Type="Number">9</Data></Cell><Cell><Data ss:Type="String">40-41-42-43</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Adidas Shop</Data></Cell><Cell><Data ss:Type="String">NMD R1</Data></Cell><Cell><Data ss:Type="Number">599.9</Data></Cell><Cell><Data ss:Type="Number">11</Data></Cell><Cell><Data ss:Type="String">38-39-40-41-42</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Centauro</Data></Cell><Cell><Data ss:Type="String">New Balance 574</Data></Cell><Cell><Data ss:Type="Number">429.9</Data></Cell><Cell><Data ss:Type="Number">14</Data></Cell><Cell><Data ss:Type="String">37-38-39-40-41</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Netshoes</Data></Cell><Cell><Data ss:Type="String">Olympikus Corre 3</Data></Cell><Cell><Data ss:Type="Number">299.9</Data></Cell><Cell><Data ss:Type="Number">16</Data></Cell><Cell><Data ss:Type="String">38-39-40-41</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Nike Store</Data></Cell><Cell><Data ss:Type="String">Air Jordan 1</Data></Cell><Cell><Data ss:Type="Number">999.9</Data></Cell><Cell><Data ss:Type="Number">6</Data></Cell><Cell><Data ss:Type="String">40-41-42-43-44</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Adidas Shop</Data></Cell><Cell><Data ss:Type="String">Forum Low</Data></Cell><Cell><Data ss:Type="Number">459.9</Data></Cell><Cell><Data ss:Type="Number">13</Data></Cell><Cell><Data ss:Type="String">37-38-39-40-41</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Centauro</Data></Cell><Cell><Data ss:Type="String">Under Armour HOVR</Data></Cell><Cell><Data ss:Type="Number">529.9</Data></Cell><Cell><Data ss:Type="Number">10</Data></Cell><Cell><Data ss:Type="String">39-40-41-42</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Netshoes</Data></Cell><Cell><Data ss:Type="String">Reebok Classic</Data></Cell><Cell><Data ss:Type="Number">379.9</Data></Cell><Cell><Data ss:Type="Number">17</Data></Cell><Cell><Data ss:Type="String">36-37-38-39-40</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Nike Store</Data></Cell><Cell><Data ss:Type="String">Zoom Pegasus 40</Data></Cell><Cell><Data ss:Type="Number">649.9</Data></Cell><Cell><Data ss:Type="Number">8</Data></Cell><Cell><Data ss:Type="String">39-40-41-42-43</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Adidas Shop</Data></Cell><Cell><Data ss:Type="String">Duramo SL</Data></Cell><Cell><Data ss:Type="Number">299.9</Data></Cell><Cell><Data ss:Type="Number">22</Data></Cell><Cell><Data ss:Type="String">38-39-40-41-42</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Centauro</Data></Cell><Cell><Data ss:Type="String">Asics Kayano 29</Data></Cell><Cell><Data ss:Type="Number">899.9</Data></Cell><Cell><Data ss:Type="Number">4</Data></Cell><Cell><Data ss:Type="String">40-41-42-43</Data></Cell></Row>
+      <Row><Cell><Data ss:Type="String">Netshoes</Data></Cell><Cell><Data ss:Type="String">Mizuno Wave Rider</Data></Cell><Cell><Data ss:Type="Number">699.9</Data></Cell><Cell><Data ss:Type="Number">9</Data></Cell><Cell><Data ss:Type="String">39-40-41-42</Data></Cell></Row>
+
+    </Table>
+  </Worksheet>
+</Workbook>
